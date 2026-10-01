@@ -3,7 +3,7 @@
 Консольное приложение, которое рисует ASCII-арт на Хэллоуин.
 
 ## Установка
-git clone https://github.com/ТВОЙ_НИК/halloween-art.git
+git clone https://github.com/hbabayan939-cmd/halloween-art.git
 cd halloween-art
 pip install -e .
 
