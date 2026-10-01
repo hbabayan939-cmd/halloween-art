@@ -12,8 +12,5 @@ halloween pumpkin
 halloween ghost --color
 halloween all -c -a
 
-## Скриншот
-[вставь скриншот]
-
 ## Лицензия
 MIT
