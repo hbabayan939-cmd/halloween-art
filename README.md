@@ -1,16 +1,19 @@
 # Halloween ASCII Art 🎃
 
-Консольное приложение, которое рисует ASCII-арт на Хэллоуин.
+Console art in halloween theme, created for fun.
+Please if you like this project help me for promoting this project.
 
-## Установка
+## How to install
 git clone https://github.com/hbabayan939-cmd/halloween-art.git
 cd halloween-art
 pip install -e .
 
-## Использование
+## Usage
 halloween pumpkin
-halloween ghost --color
+halloween ghost
+halloween skeleton 
+halloween <any> --color
 halloween all -c -a
 
-## Лицензия
+## License
 MIT
